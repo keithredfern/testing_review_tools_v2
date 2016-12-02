@@ -1,0 +1,6 @@
+git config --system http.sslcainfo "C:\Users\redfernk\AppData\Local\GitHub\PortableGit_d7effa1a4a322478cd29c826b52a0c118ad3db11\mingw32\ssl\certs\ca-bundle.crt"
+	
+C:\Users\redfernk\AppData\Local\GitHub\PortableGit_d7effa1a4a322478cd29c826b52a0c118ad3db11\mingw32\bin\git.exe
+
+
+https://support.smartbear.com/viewarticle/42890/
